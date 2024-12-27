@@ -1,0 +1,24 @@
+﻿h1 {
+    color:  darkgreen;
+    background-color: black;
+}
+
+h2 {
+    color: blue;
+    background-color: azure;
+}
+
+p {
+    color: brown;
+    background-color: darkgray;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+#parrafo1 {
+    color: olivedrab;
+    background-color: silver;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+input{
+    background-color:lightskyblue
+}
